@@ -1,0 +1,41 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Volumes/WDUltraPassport/Projects/ReactNative/MeetpUpApp/Fresh/meetupapp/node_modules/react-native-contacts/android/src/main/AndroidManifest.xml:2:1-8:12
+INJECTED from /Volumes/WDUltraPassport/Projects/ReactNative/MeetpUpApp/Fresh/meetupapp/node_modules/react-native-contacts/android/src/main/AndroidManifest.xml:2:1-8:12
+INJECTED from /Volumes/WDUltraPassport/Projects/ReactNative/MeetpUpApp/Fresh/meetupapp/node_modules/react-native-contacts/android/src/main/AndroidManifest.xml:2:1-8:12
+INJECTED from /Volumes/WDUltraPassport/Projects/ReactNative/MeetpUpApp/Fresh/meetupapp/node_modules/react-native-contacts/android/src/main/AndroidManifest.xml:2:1-8:12
+INJECTED from /Volumes/WDUltraPassport/Projects/ReactNative/MeetpUpApp/Fresh/meetupapp/node_modules/react-native-contacts/android/src/main/AndroidManifest.xml:2:1-8:12
+INJECTED from /Volumes/WDUltraPassport/Projects/ReactNative/MeetpUpApp/Fresh/meetupapp/node_modules/react-native-contacts/android/src/main/AndroidManifest.xml:2:1-8:12
+INJECTED from /Volumes/WDUltraPassport/Projects/ReactNative/MeetpUpApp/Fresh/meetupapp/node_modules/react-native-contacts/android/src/main/AndroidManifest.xml:2:1-8:12
+	package
+		ADDED from /Volumes/WDUltraPassport/Projects/ReactNative/MeetpUpApp/Fresh/meetupapp/node_modules/react-native-contacts/android/src/main/AndroidManifest.xml:4:3-42
+		INJECTED from /Volumes/WDUltraPassport/Projects/ReactNative/MeetpUpApp/Fresh/meetupapp/node_modules/react-native-contacts/android/src/main/AndroidManifest.xml
+		INJECTED from /Volumes/WDUltraPassport/Projects/ReactNative/MeetpUpApp/Fresh/meetupapp/node_modules/react-native-contacts/android/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Volumes/WDUltraPassport/Projects/ReactNative/MeetpUpApp/Fresh/meetupapp/node_modules/react-native-contacts/android/src/main/AndroidManifest.xml
+		ADDED from /Volumes/WDUltraPassport/Projects/ReactNative/MeetpUpApp/Fresh/meetupapp/node_modules/react-native-contacts/android/src/main/AndroidManifest.xml:2:1-8:12
+		INJECTED from /Volumes/WDUltraPassport/Projects/ReactNative/MeetpUpApp/Fresh/meetupapp/node_modules/react-native-contacts/android/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Volumes/WDUltraPassport/Projects/ReactNative/MeetpUpApp/Fresh/meetupapp/node_modules/react-native-contacts/android/src/main/AndroidManifest.xml
+		ADDED from /Volumes/WDUltraPassport/Projects/ReactNative/MeetpUpApp/Fresh/meetupapp/node_modules/react-native-contacts/android/src/main/AndroidManifest.xml:2:1-8:12
+		INJECTED from /Volumes/WDUltraPassport/Projects/ReactNative/MeetpUpApp/Fresh/meetupapp/node_modules/react-native-contacts/android/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Volumes/WDUltraPassport/Projects/ReactNative/MeetpUpApp/Fresh/meetupapp/node_modules/react-native-contacts/android/src/main/AndroidManifest.xml:3:3-61
+uses-permission#android.permission.READ_CONTACTS
+ADDED from /Volumes/WDUltraPassport/Projects/ReactNative/MeetpUpApp/Fresh/meetupapp/node_modules/react-native-contacts/android/src/main/AndroidManifest.xml:6:3-70
+	android:name
+		ADDED from /Volumes/WDUltraPassport/Projects/ReactNative/MeetpUpApp/Fresh/meetupapp/node_modules/react-native-contacts/android/src/main/AndroidManifest.xml:6:20-67
+uses-sdk
+INJECTED from /Volumes/WDUltraPassport/Projects/ReactNative/MeetpUpApp/Fresh/meetupapp/node_modules/react-native-contacts/android/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Volumes/WDUltraPassport/Projects/ReactNative/MeetpUpApp/Fresh/meetupapp/node_modules/react-native-contacts/android/src/main/AndroidManifest.xml
+INJECTED from /Volumes/WDUltraPassport/Projects/ReactNative/MeetpUpApp/Fresh/meetupapp/node_modules/react-native-contacts/android/src/main/AndroidManifest.xml
+INJECTED from /Volumes/WDUltraPassport/Projects/ReactNative/MeetpUpApp/Fresh/meetupapp/node_modules/react-native-contacts/android/src/main/AndroidManifest.xml
+INJECTED from /Volumes/WDUltraPassport/Projects/ReactNative/MeetpUpApp/Fresh/meetupapp/node_modules/react-native-contacts/android/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Volumes/WDUltraPassport/Projects/ReactNative/MeetpUpApp/Fresh/meetupapp/node_modules/react-native-contacts/android/src/main/AndroidManifest.xml
+		ADDED from /Volumes/WDUltraPassport/Projects/ReactNative/MeetpUpApp/Fresh/meetupapp/node_modules/react-native-contacts/android/src/main/AndroidManifest.xml
+		INJECTED from /Volumes/WDUltraPassport/Projects/ReactNative/MeetpUpApp/Fresh/meetupapp/node_modules/react-native-contacts/android/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Volumes/WDUltraPassport/Projects/ReactNative/MeetpUpApp/Fresh/meetupapp/node_modules/react-native-contacts/android/src/main/AndroidManifest.xml
+		ADDED from /Volumes/WDUltraPassport/Projects/ReactNative/MeetpUpApp/Fresh/meetupapp/node_modules/react-native-contacts/android/src/main/AndroidManifest.xml
+		INJECTED from /Volumes/WDUltraPassport/Projects/ReactNative/MeetpUpApp/Fresh/meetupapp/node_modules/react-native-contacts/android/src/main/AndroidManifest.xml
